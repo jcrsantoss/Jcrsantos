@@ -11,7 +11,7 @@ Conhecimento é meu porto Seguro...🔥
 - 🔭 Atualmente estou trabalhando em ... DevOps jnr
 - 🧐 Atualmente estou aprendendo ... AWS \ Kubernetes \ Jinkins
 - 👨🏾‍💻 Graduação em ... Tecnologia da informação
-- 👨🏾‍💻 Cursando Especialização em DevOps pela Anhaguera 
+- 👨🏾‍💻 Cursando Especialização em DevOps pela Anhanguera 
 - 📫 Como entrar em contato comigo: ... juliocesa001@gmail.com
 
 🖥️ Tecnologias e Ferramentas

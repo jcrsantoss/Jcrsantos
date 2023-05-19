@@ -1,5 +1,5 @@
 ### Salve Devs!! 
-Tenho 24 Anos, Cria do Grajau (Extremo Sul de SP) Sou iniciante da programação futuro Devops!
+Tenho 24 Anos, Cria do Grajau (Extremo Sul de SP) Sou DevOps!
 
 Conhecimento é meu porto Seguro...🔥
 
@@ -8,10 +8,11 @@ Conhecimento é meu porto Seguro...🔥
 **jcrsantos/jcrsantos** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub.
 -->
 
-- 🔭 Atualmente estou trabalhando em ... Analista de Suporte N2
-- 🧐 Atualmente estou aprendendo ... Devops \ Azure Pipelins \ Docker Conteiners
+- 🔭 Atualmente estou trabalhando em ... DevOps jnr
+- 🧐 Atualmente estou aprendendo ... AWS \ Kubernetes \ Jinkins
 - 👨🏾‍💻 Graduação em ... Tecnologia da informação
-- 📫 Como entrar em contato comigo: ... juliocesar001ti@outlook.com
+- 👨🏾‍💻 Cursando Especialização em DevOps pela Anhaguera 
+- 📫 Como entrar em contato comigo: ... juliocesa001@gmail.com
 
 🖥️ Tecnologias e Ferramentas
 
